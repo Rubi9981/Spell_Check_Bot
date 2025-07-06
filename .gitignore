@@ -1,0 +1,7 @@
+# Build artifacts
+dist/
+build/
+*.spec
+
+# Temporary files
+commit_message.txt
